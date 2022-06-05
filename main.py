@@ -12,3 +12,4 @@ def proverka():
         print(delet(a,b))
 
 proverka()
+print(a)
